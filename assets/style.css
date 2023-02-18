@@ -38,5 +38,19 @@ p {
     width: 80;
     margin: 40px auto;
     border: 5px solid gray;
-    box-shadow: 5px 10px #888888; */
+    box-shadow: 5px 10px #888888;
 }
+/* Acceptance criteria:
+
+It is done when I have read the documentation on JavaScript basics.
+
+It is done when I have read the documentation on JavaScript data types.
+
+It is done when I have added a file called script.js to the assets folder in the Prework Study Guide project.
+
+It is done when I have added a variable called topics with a value of “HTML, CSS, Git, JavaScript” to the file.
+
+It is done when I have connected the script.js file to the index.html file by adding a script element to the <body> element.
+
+It is done when I have used console.log to print the value of the variable to the console.
+ */
